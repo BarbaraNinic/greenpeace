@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.56.26219.0%0D%0A%0D%0A00:00:00.192%20--%3E%2000:00:05.376%0D%0AU%20vrhu%20se%20nalazi%20i%20Negazirana%20voda%20s%20ukupno%2070,5%25%20tr%C5%BEi%C5%A1nog%20udjela.%0D%0A%0D%0A"}')
